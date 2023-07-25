@@ -1,35 +1,22 @@
-# Frontend Mentor - NFT preview card component solution
+# Projeto Portifólio - Origamid
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-
-## Overview
-
-### Screenshot
-
-![Image](./images/screenshot.jpg)
+Esse é um projeto feito no curso Html e Css para iniciantes da plataforma Origamid.
+O objetivo era construir uma página de portifólio.
 
 ### Links
 
 - Solution URL: [solution ](https:/)
-- Live Site URL: [live site URL at Github](https://wellingtonmarques96.github.io/nftpreviewcard.io/)
+- Live Site URL: [live site URL at Github](https://wellingtonmarques96.github.io/portifolio.io/)
 
-## My process
+## Meu processo
 
-### Built with
+### Construído com
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- Pseudo Classes
 
 ## Author
 
